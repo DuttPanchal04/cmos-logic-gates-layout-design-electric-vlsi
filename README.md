@@ -24,6 +24,7 @@ Each Logic Gate folder includes:
 | Gate   | Type       | Status      |
 |--------|------------|-------------|
 | NOT / Inverter    | Basic      | ✅ Completed |
+| Buffer  | Basic      | ✅ Completed |
 | AND    | Basic      | ✅ Completed |
 | OR     | Basic      | ✅ Completed |
 | NAND   | Universal  | ✅ Completed |
@@ -52,37 +53,43 @@ Each Logic Gate folder includes:
 
 ![cmos inverter](https://github.com/user-attachments/assets/b3e0fe33-8b3c-424a-a864-65b9ea1b158f)
 
-### 🔹2. CMOS AND Gate
+### 🔹2. CMOS Buffer
+- [Access Folder including Schematic, Layout, Output Waveforms, and Project file, etc.](https://github.com/DuttPanchal04/cmos-logic-gates-layout-design-electric-vlsi/tree/main/cmos-buffer)
+- [Watch Working Video](https://drive.google.com/file/d/1jzEYegOZRNi-FCTGQWGx5MmZXK72Irb5/view?usp=sharing)
+
+![CMOS Buffer](https://github.com/user-attachments/assets/b3e0a241-a89e-49d6-ac0d-af09d4ed7cc5)
+
+### 🔹3. CMOS AND Gate
 - [Access Folder including Schematic, Layout, Output Waveforms, and Project file, etc.](https://github.com/DuttPanchal04/cmos-logic-gates-layout-design-electric-vlsi/tree/main/cmos-and)
 - [Watch Working Video](https://drive.google.com/file/d/19N8mHu15IYYL4s18QhK7XHbnapn1Ku-C/view?usp=sharing)
 
 ![cmos and](https://github.com/user-attachments/assets/63b5717f-e5e6-4a5b-a26e-5fc2039446ba)
 
-### 🔹3. CMOS OR Gate
+### 🔹4. CMOS OR Gate
 - [Access Folder including Schematic, Layout, Output Waveforms, and Project file, etc.](https://github.com/DuttPanchal04/cmos-logic-gates-layout-design-electric-vlsi/tree/main/cmos-or)
 - [Watch Working Video](https://drive.google.com/file/d/1S0IVe4f6BOsYDPEOuwhX-F7OpSKd8f4R/view?usp=sharing)
   
 ![cmos or](https://github.com/user-attachments/assets/37fac568-3cc3-4d8f-b9f3-68472662bbf0)
 
-### 🔹4. CMOS NAND Gate
+### 🔹5. CMOS NAND Gate
 - [Access Folder including Schematic, Layout, Output Waveforms, and Project file, etc.](https://github.com/DuttPanchal04/cmos-logic-gates-layout-design-electric-vlsi/tree/main/cmos-nand)
 - [Watch Working Video](https://drive.google.com/file/d/1Zb7qQwoo76UW0z0F4KeKXN-Qx3Pm7rFv/view?usp=sharing)
   
 ![cmos nand](https://github.com/user-attachments/assets/fb1addea-a507-449c-9e45-b9be5ee0b60a)
 
-### 🔹5. CMOS NOR Gate
+### 🔹6. CMOS NOR Gate
 - [Access Folder including Schematic, Layout, Output Waveforms, and Project file, etc.](https://github.com/DuttPanchal04/cmos-logic-gates-layout-design-electric-vlsi/tree/main/cmos-nor)
 - [Watch Working Video](https://drive.google.com/file/d/1mcnKmxsDjenu3_jn1E-p4qaNm8byOP6T/view?usp=sharing)
   
 ![cmos nor](https://github.com/user-attachments/assets/1b03106a-a845-4e5e-ba62-8a612253fa4a)
 
-### 🔹6. CMOS EX-OR / XOR Gate
+### 🔹7. CMOS EX-OR / XOR Gate
 - [Access Folder including Schematic, Layout, Output Waveforms, and Project file, etc.](https://github.com/DuttPanchal04/cmos-logic-gates-layout-design-electric-vlsi/tree/main/cmos-xor)
 - [Watch Working Video](https://drive.google.com/file/d/1OhYBOXp3om_ndTEAd2-LIb25-bmDIBhC/view?usp=sharing)
 
 ![cmos xor](https://github.com/user-attachments/assets/f12c5237-1451-4a88-9f98-aed63476aa69)
 
-### 🔹7. CMOS EX-NOR / XNOR Gate
+### 🔹8. CMOS EX-NOR / XNOR Gate
 - [Access Folder including Schematic, Layout, Output Waveforms, and Project file, etc.](https://github.com/DuttPanchal04/cmos-logic-gates-layout-design-electric-vlsi/tree/main/cmos-xnor)
 - [Watch Working Video](https://drive.google.com/file/d/14r_mHDkSG-upQJZ1oDGWaAQOeXxgI9qn/view?usp=sharing)
 

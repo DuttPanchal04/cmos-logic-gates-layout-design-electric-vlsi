@@ -45,6 +45,33 @@ Each Logic Gate folder includes:
 
 ## 📷 Project Snapshots
 
+🔹1. CMOS Inverter / NOT Gate
+
+![cmos inverter collage](https://github.com/user-attachments/assets/b3e0fe33-8b3c-424a-a864-65b9ea1b158f)
+
+🔹2. CMOS AND Gate
+
+![cmos and collage](https://github.com/user-attachments/assets/63b5717f-e5e6-4a5b-a26e-5fc2039446ba)
+
+🔹3. CMOS OR Gate
+
+![cmos or collage](https://github.com/user-attachments/assets/37fac568-3cc3-4d8f-b9f3-68472662bbf0)
+
+🔹4. CMOS NAND Gate
+
+![cmos nand collage](https://github.com/user-attachments/assets/fb1addea-a507-449c-9e45-b9be5ee0b60a)
+
+🔹5. CMOS NOR Gate
+
+![cmos nor collage](https://github.com/user-attachments/assets/1b03106a-a845-4e5e-ba62-8a612253fa4a)
+
+🔹6. CMOS EX-OR / XOR Gate
+
+![cmos xor collage](https://github.com/user-attachments/assets/f12c5237-1451-4a88-9f98-aed63476aa69)
+
+🔹7. CMOS EX-NOR / XNOR Gate
+
+![cmos xnor collage](https://github.com/user-attachments/assets/2fdde877-a9f9-47e1-bebe-aed5585cb291)
 
 
 ---

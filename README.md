@@ -14,6 +14,7 @@ Each Logic Gate folder includes:
 - 🧪 Simulation waveform (`.png`)
 - 🔍 DRC-verified designs
 - 📂 Complete Project Library (`.jelib`) File ( open in Electric VLSI Software )
+- Exported GDS File
 
 
 ---
